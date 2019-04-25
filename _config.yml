@@ -11,8 +11,8 @@ github_repo: "https://github.com/huburt-Hu/huburt-Hu.github.io" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: “Keep Learning!”
+sidebar-avatar: /img/about_me_logo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -27,7 +27,7 @@ jianshu_username:   002f99a0df6b
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
-paginate: 10
+paginate: 20
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
@@ -82,7 +82,7 @@ gitalk:
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 2              # 相同标签数量大于这个数，才会出现在首页
 
 
 
@@ -95,7 +95,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "简书",
-        href: "https://www.jianshu.com/u/002f99a0df6b"
+        title: "BY Blog",
+        href: "https://qiubaiying.github.io/"
     }
 ]
